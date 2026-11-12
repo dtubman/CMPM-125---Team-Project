@@ -1,0 +1,20 @@
+1) Main Menu
+	Screen the game launches into. Should have UI buttons for Play, Settings, Quit, and maybe Credits too.
+
+2) Intro Cutscene
+	Should explain the context / narrative exposition of the game. Maybe we play as a nanobot/program given to near-braindead patients. Let's workshop it! Should end with perspective entering the brain to lead into first level.
+
+3) Hippocampus
+	First level, should center around human memory with things like maze-changing mechanics. Can include a cutscene on level completion. Should end with a transition room that will be the same transition room that starts the Cerebellum scene (to make the map feel seamless).
+
+4) Cerebellum
+	Second level, should start with the transition room from the Hippocampus, and then focus on human motor function with wonky controls mechanics. Can include a cutscene on level completion. Should end with a transition room that the Amygdala scene will start with.
+
+5) Amygdala
+	Third Level, should start with the transition room from the Cerebellum, and then focus on emotion, fear, paranoia, horror themes, etc. Can include cutscene on level completion. Should end with transition room that the Brain Stem scene will start with.
+
+6) Brain Stem
+	Fourth, final level. Should start from the transition room from Amygdala. Should feature a boss fight of sorts. Should end with a cutscene, maybe the player jumping into the brain stem neuron stream to exit the brain or something.
+
+7) End Credits
+	Just a simple scrolling credits scene.
